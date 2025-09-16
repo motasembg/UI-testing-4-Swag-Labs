@@ -1,0 +1,20 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/storageState.json
+/tests/setup/
+/setup/auth/auth.json
+/tests/setup/auth.json
+/tests/setup/auth.setup.ts
+/auth.json
+/package-lock.json
+/.env
+/.env.local
+/.env.test
+/.env.production
+/allure-results/
+/allure-report/
