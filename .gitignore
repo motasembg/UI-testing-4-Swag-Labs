@@ -11,7 +11,6 @@ node_modules/
 /tests/setup/auth.json
 /tests/setup/auth.setup.ts
 /auth.json
-/package-lock.json
 /.env
 /.env.local
 /.env.test
